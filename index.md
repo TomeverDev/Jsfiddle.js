@@ -1,3 +1,5 @@
+<title>Support</title>
+
 # Table of contents
 1. [Files you should have](#files)
     1. [Understanding of jsfiddle.js](#jsfiddle)
