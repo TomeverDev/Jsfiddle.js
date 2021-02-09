@@ -1,5 +1,6 @@
 <title>Support</title>
 
+
 # Table of contents
 1. [Files you should have](#files)
     1. [Understanding of jsfiddle.js](#jsfiddle)
@@ -17,7 +18,7 @@
 
 # The purpose of jsfiddle.js <a name="files"></a>
 
-Welcome!
+&nbsp;&nbsp;Welcome!
 
 (This file was written because of bordem)
 
